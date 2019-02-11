@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects>
+
+
+<Rock id="2">
+<height>50</height>
+        <pixmapPath>:/image/stdShip_MAIN.png</pixmapPath>
+        <width>50</width>
+    </Rock>
+    <stdShip id="3">
+<boundingHeight>200</boundingHeight>
+        <boundingWidth>200</boundingWidth>
+        <height>30</height>
+        <pixmapPath>:/image/stdShip_ENEMY.png</pixmapPath>
+        <typeBullet>1</typeBullet>
+        <width>30</width>
+    </stdShip>
+</objects>

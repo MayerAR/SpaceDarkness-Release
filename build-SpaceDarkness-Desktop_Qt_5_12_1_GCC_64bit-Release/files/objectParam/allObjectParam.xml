@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<param>
+<allParam>
+    <ew>
+            <bulletParam>files/objectParam/ew/bulletParam.xml</bulletParam>
+            <gameObjectParam>files/objectParam/ew/gameObjectParam.xml</gameObjectParam>
+            <objectParam>files/objectParam/ew/objectParam.xml</objectParam>
+            <weaponParam>files/objectParam/ew/weaponObject.xml</weaponParam>
+        </ew>
+        <standartParam>
+        <bulletParam>:/param/bulletObjects.xml</bulletParam>
+            <gameObjectParam>:/param/gameObjects.xml</gameObjectParam>
+            <objectParam>:/param/objectParam.xml</objectParam>
+            <weaponParam>:/param/weaponObject.xml</weaponParam>
+        </standartParam>
+    </allParam>
+    <currentParam>ew</currentParam>
+</param>
